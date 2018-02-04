@@ -18,3 +18,8 @@ Utilisation :
 	insert
 	select
 	describe
+
+
+www.leo-lecherbonnier.com
+
+leo.lecherbonnier@epitech.eu
